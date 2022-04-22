@@ -131,3 +131,4 @@ dmypy.json
 #data files
 data/
 archive.zip
+audioClassifier.h5
